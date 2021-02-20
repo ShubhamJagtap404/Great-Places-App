@@ -11,7 +11,7 @@
         android:label="GreatPlaces"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCO4AxaiW6eQwQFGVViPPMbw7sg7kP5Qig"/>
+            android:value="[YOUR KEY]"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
